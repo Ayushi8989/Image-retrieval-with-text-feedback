@@ -1,5 +1,6 @@
-# README for Multimodal Image Retrieval System
+# README
 
+Link to paper: [1] https://drive.google.com/drive/folders/1KQ5kyeSGI-lTvtb5xW2XubNO7nPyWhJw?usp=sharing
 ## Overview
 This project presents a **image retrieval system** that effectively retrieves images based on textual descriptions. It leverages the capabilities of **Vision Transformers (ViT)** for image encoding and **BERT** for text embedding, employing an additive attention mechanism to fuse these modalities. The system aims to enhance user experience in applications like e-commerce and multimedia search by allowing more intuitive searches through natural language.
 
@@ -47,7 +48,5 @@ To run this project:
 3. Prepare the FashionIQ dataset from Kaggle.
 4. Run the training script to fine-tune the models.
 
-For further inquiries or contributions, please contact the authors via their provided emails.
 
-Citations:
-[1] https://drive.google.com/drive/folders/1KQ5kyeSGI-lTvtb5xW2XubNO7nPyWhJw?usp=sharing
+
