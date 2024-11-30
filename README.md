@@ -5,6 +5,8 @@ This project presents a **image retrieval system** that effectively retrieves im
 
 Traditional systems often rely on visual similarity, neglecting semantic context. This work proposes a novel system that combines ViT for image encoding and BERT for text embedding, achieving improved retrieval performance as demonstrated on the FashionIQ dataset.
 
+![Frame 2](https://github.com/user-attachments/assets/09c861bd-ad65-4890-82f9-e4ed19aae6dc)
+
 ## Methodology
 1. **Feature Extraction**
    - **Image Encoding**: Utilizes ViT to process images into feature vectors.
